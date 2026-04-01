@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.section    {
+    margin: 16px 0;
+    padding: 0 15px;
+}
+header img{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.section1 h2{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.section3 ul{
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.section4 table{
+    width: 30%;
+}
+
+.section5 textarea{
+    width: 300px;
+    height: 200px;
+}
+
+.section5 form div{
+    margin-bottom: 20px;
+}
